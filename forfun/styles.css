@@ -10,7 +10,7 @@ html {
 body {
   margin: 0;
   color: white;
-  background-image: url(./assets/nba_background.jpg);
+  background-image: url(../assets/background.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
